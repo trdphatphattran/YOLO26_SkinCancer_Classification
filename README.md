@@ -1,6 +1,5 @@
-# YOLO26_SkinCancer_Classification  
 
-# 🏥 Skin Cancer Classification using YOLO26  
+# Skin Cancer Classification using YOLO26  
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![YOLO26](https://img.shields.io/badge/Model-YOLO26-green.svg)](https://docs.ultralytics.com/models/yolo26/)
@@ -49,7 +48,7 @@ Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tố
 ## Hướng dẫn sử dụng  
 ### 1. Clone repository  
 ```python
-https://github.com/trdphatphattran/YOLO26_SkinCancer_Classification.git
+git clone https://github.com/trdphatphattran/YOLO26_SkinCancer_Classification.git
 ```
 
 ### 2. Cài thư viện  
