@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python-headless
+torch
+torchvision
+torchaudio
+pandas
+altair
+transformers
+pillow
+numpy
