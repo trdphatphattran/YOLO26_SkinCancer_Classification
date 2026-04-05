@@ -39,11 +39,9 @@ Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tố
 ## 📂 Cấu trúc thư mục (Project Structure)
 ```text
 ├── app/
-│   └── streamlit_app.py    # Code giao diện Streamlit
+│   └── web.py    # Code giao diện Streamlit
 ├── models/
 │   └── best.pt             # Trọng số mô hình tốt nhất sau khi train
 ├── notebooks/
-│   └── training_yolo11.ipynb # File Colab dùng để huấn luyện
-├── data/
-│   └── data.yaml           # Cấu hình đường dẫn dataset
+│   └── train_CV_yolo26.ipynb # File Colab dùng để huấn luyện
 └── README.md
