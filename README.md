@@ -16,7 +16,7 @@
 
 ## 📊 Kết quả huấn luyện (Training Results)
 Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tối ưu:
-* **Dataset Size:** 36,087 images (after Augmentation).
+* **Dataset Size:** 36,087 images (sau khi Augmentation).
 * **Input Size:** 800x800 pixels.
 * **Accuracy (Top-1):** **~93%**
 * **Epochs:** 60.
@@ -33,7 +33,21 @@ Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tố
 * **Core:** Python, PyTorch, Ultralytics (YOLO26).  
 * **Data Processing:** Roboflow, OpenCV, Pandas.  
 * **Deployment:** Streamlit.  
-* **Training:** Google Colab (L4 GPU).  
+* **Training:** Google Colab (L4 GPU).
+
+## Demo Web  
+### 1. Upload ảnh  
+- Upload ảnh MEL, BCC hay others (ung thư khác).  
+<img width="1421" height="736" alt="image" src="https://github.com/user-attachments/assets/9e0def64-554e-4b5a-9e06-4d902f33c1f1" />
+
+### 2. Tiền xử lý ảnh  
+- Ảnh được xử lý qua CLAHE và Sharpen.
+<img width="1409" height="771" alt="image" src="https://github.com/user-attachments/assets/2539eb70-9360-4eb3-b4e0-414ddb0abdb2" />
+
+### 3. Kết quả  
+<img width="1419" height="245" alt="image" src="https://github.com/user-attachments/assets/0902c51b-83cb-43a6-8703-fccf954f3a93" />  
+
+
 
 ## 📂 Cấu trúc thư mục (Project Structure)
 ```text
