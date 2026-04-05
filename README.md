@@ -45,3 +45,19 @@ Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tố
 ├── notebooks/
 │   └── train_CV_yolo26.ipynb # File Colab dùng để huấn luyện
 └── README.md
+```
+## Hướng dẫn sử dụng  
+### 1. Clone repository  
+```python
+https://github.com/trdphatphattran/YOLO26_SkinCancer_Classification.git
+```
+
+### 2. Cài thư viện  
+```python
+pip install -r requirements.txt
+```
+
+### 3. Chạy streamlit  
+```python
+streamlit run app/web.py
+```
