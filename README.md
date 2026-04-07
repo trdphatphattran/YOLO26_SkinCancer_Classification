@@ -71,3 +71,15 @@ pip install -r requirements.txt
 ```python
 streamlit run app/web.py
 ```
+
+## Thông tin liên hệ  
+
+Nếu bạn có bất kỳ câu hỏi nào về dự án hoặc muốn hợp tác, vui lòng liên hệ với mình qua:
+
+## 📬 Thông tin liên hệ
+
+* **Họ và tên:** Trần Đại Phát
+* **LinkedIn:** [Phat Tran](https://www.linkedin.com/in/phat-tran-9ba42a341/)
+* **GitHub:** [trdphatphattran](https://github.com/trdphatphattran)
+* **Email:** phattrandai15062005@gmail.com
+* **Phone:** 0908647977 
