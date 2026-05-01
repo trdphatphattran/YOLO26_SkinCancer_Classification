@@ -53,7 +53,6 @@ Mô hình được huấn luyện trên GPU **NVIDIA L4** với cấu hình tố
 ```text
 ├── web.py                # Code giao diện Streamlit
 ├── best.pt               # Trọng số mô hình tốt nhất sau khi train
-├── train_CV_yolo26.ipynb # File Colab dùng để huấn luyện
 ├── requirements.txt
 └── README.md
 ```
